@@ -1,0 +1,19 @@
+Alphabet:	a b c d e f g h i j k l m n o p q r s t u v w x y z 
+Shifted:	e f g h i j k l m n o p q r s t u v w x y z a b c d 
+Shift:		4
+
+Encryption Example
+Original:	Hello, world!
+Encrypted:	Lipps, asvph!
+
+Decryption Example
+Original:	Lipps, asvph!
+Decrypted:	Hello, world!
+
+Empty String Example
+Original:	
+Decrypted:	
+
+Shift 26 Example
+Original:	Hello, world!
+Encrypted:	Hello, world!
